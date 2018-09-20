@@ -1,0 +1,52 @@
+AutoECO Report
+FILE-A: D:\TAI LIEU\LUANVAN\MACH\ORCAD\RS485MASTER\RS485MASTER.MAX
+FILE-B: D:\TAI LIEU\LUANVAN\MACH\ORCAD\RS485MASTER\RS485MASTER.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint RESISTOR 1/4W
+Adding footprint TU PI
+Adding footprint DIP 8
+Adding footprint LED 5 LY
+Adding package RESISTOR
+Adding package CAP_NP
+Adding package MAX485
+Adding package LED
+Adding component R1
+Adding component R8
+Adding component R4
+Adding component R9
+Adding component C1
+Adding component R5
+Adding component U1
+Adding component R6
+Adding component R7
+Adding component D2
+Adding component R10
+Adding net N038120
+Adding R5.2 to net A
+Adding R7.1 to net A
+Adding U1.6 to net A
+Adding U1.7 to net B
+Adding R7.2 to net B
+Adding R6.1 to net B
+Adding U1.2 to net C
+Adding R8.2 to net C
+Adding U1.3 to net C
+Adding R9.1 to net C
+Adding U1.5 to net GND
+Adding D2.2 to net GND
+Adding R6.2 to net GND
+Adding C1.2 to net GND
+Adding U1.1 to net RX
+Adding R1.1 to net RX
+Adding R4.2 to net TX
+Adding U1.4 to net TX
+Adding U1.8 to net VCC
+Adding R4.1 to net VCC
+Adding R5.1 to net VCC
+Adding C1.1 to net VCC
+Adding R8.1 to net VCC
+Adding R9.2 to net VCC
+Adding R1.2 to net VCC
+Adding R10.1 to net VCC
+*EOF*
+No errors found

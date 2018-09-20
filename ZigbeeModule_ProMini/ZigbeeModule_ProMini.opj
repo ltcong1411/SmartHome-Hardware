@@ -1,0 +1,71 @@
+(ExpressProject "ZigbeeModule_ProMini"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\zigbeemodule_promini.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEEMODULE_PROMINI\ZIGBEEMODULE_PROMINI.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "ZIGBEEMODULE_PROMINI.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    ( "TRUE"))
+  (Folder "Outputs"
+    (File ".\zigbeemodule_promini.drc"
+      (Type "Report"))
+    (File ".\zigbeemodule_promini.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (0
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 12X2"
+      (FullPartName "HEADER 12X2.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\zigbeemodule_promini.dsn")
+      (Path "Design Resources" ".\zigbeemodule_promini.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\zigbeemodule_promini.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 395"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 537 52 486")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEEMODULE_PROMINI\ZIGBEEMODULE_PROMINI.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

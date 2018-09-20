@@ -1,0 +1,13 @@
+AutoECO Report
+FILE-A: D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEEMODULE_PROMINI\ZIGBEEMODULE_PROMINI.MAX
+FILE-B: D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEEMODULE_PROMINI\ZIGBEEMODULE_PROMINI.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting D2.2 from net 0
+Deleting R1.1 from net VCC
+Adding HEADER_02.2 to net VCC
+Deleting HEADER_02.2 from net VIN
+Deleting component R1
+Deleting component D2
+Deleting net N02031
+*EOF*
+No errors found

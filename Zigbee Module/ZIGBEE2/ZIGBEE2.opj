@@ -1,0 +1,103 @@
+(ExpressProject "ZIGBEE2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\zigbee2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "D:\Projects\SmartHome\Hardware\Zigbee Module\ZIGBEE2\ZIGBEE2.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "ZIGBEE2.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\zigbee2.drc"
+      (Type "Report"))
+    (File ".\zigbee2.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (0
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3"
+      (FullPartName "HEADER 3.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DOMINO2
+      (FullPartName "DOMINO2.Normal")
+      (LibraryName
+         "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\THU VIEN CAPTURE.OLB")
+      (DeviceIndex "0"))
+    (DOMINO6
+      (FullPartName "DOMINO6.Normal")
+      (LibraryName
+         "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\THU VIEN CAPTURE.OLB")
+      (DeviceIndex "0"))
+    ("SW SPDT"
+      (FullPartName "SW SPDT.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DEVICE (2).OLB")
+      (DeviceIndex "0"))
+    (SWITCH
+      (FullPartName "SWITCH.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Projects\SmartHome\Hardware\Zigbee Module\ZIGBEE2\zigbee2.dsn")
+      (Path "Design Resources"
+         "D:\Projects\SmartHome\Hardware\Zigbee Module\ZIGBEE2\zigbee2.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "D:\Projects\SmartHome\Hardware\Zigbee Module\ZIGBEE2\zigbee2.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 385"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1210 52 476")
+        (Scroll "0 110")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEE MODULE\ZIGBEE2\ZIGBEE2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "C:\Program Files\Orcad\Capture\Library"))

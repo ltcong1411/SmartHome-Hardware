@@ -1,0 +1,41 @@
+AutoECO Report
+FILE-A: D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEE MODULE\ZIGBEE2\ZIGBEE2-1.MAX
+FILE-B: D:\PROJECTS\SMARTHOME\HARDWARE\ZIGBEE MODULE\ZIGBEE2\ZIGBEE2-1.MAX
+If "*EOF*" immediately follows, no changes were made
+Adding footprint HEADER_02
+Adding footprint HEADER_02
+Net 0 renamed to P1.0
+Adding sym obstacles 124
+Adding sym obstacles 126
+Adding sym obstacles 302
+Adding sym obstacles 304
+Adding sym texts 74
+Adding sym texts 188
+Deleting J4.6 from net P1.0
+Deleting J7.2 from net P1.0
+Deleting J8.2 from net P1.0
+Deleting J6.2 from net P1.0
+Deleting D2.2 from net P1.0
+Deleting J9.2 from net P1.0
+Deleting C7.2 from net P1.0
+Deleting S1.2 from net P1.0
+Deleting R3.2 from net P1.0
+Deleting J1.20 from net P1.0
+Deleting J3.11 from net P1.0
+Adding J1.2 to net P1.0
+Adding J6.3 to net P1.0
+Adding J4.6 to net 0
+Adding J7.2 to net 0
+Adding J8.2 to net 0
+Adding J6.2 to net 0
+Adding D2.2 to net 0
+Adding J9.2 to net 0
+Adding C7.2 to net 0
+Adding S1.2 to net 0
+Adding R3.2 to net 0
+Adding J1.20 to net 0
+Adding J3.11 to net 0
+Adding D2.1 to net N02031
+Adding R1.2 to net N02031
+*EOF*
+No errors found
